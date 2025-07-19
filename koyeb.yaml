@@ -1,0 +1,4 @@
+name: hiddify-next
+routes:
+  - path: /
+    port: 443
